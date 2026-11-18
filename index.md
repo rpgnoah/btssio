@@ -6,18 +6,18 @@ Bienvenue sur mon portfolio professionnel réalisé dans le cadre du **BTS Servi
 
 ## 🎯 Qui suis-je ?
 
-Je m'appelle **[Votre Prénom NOM]**, étudiant(e) en **BTS SIO** — option **[SISR / SLAM]** au sein de **[Nom de votre établissement]**.
-
-Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux / le développement d'applications et la conception logicielle]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
+Je m'appelle **[Noah Bergé--Bauer]**, étudiant en **BTS SIO** au sein de **[Henri matisse]**.
+ 
+Passionné(e) par l'informatique, **[l'administration des systèmes et réseaux]** ainsi que la **cybersécurité**, je développe mes compétences techniques et méthodologiques à travers mes projets d'atelier de professionnalisation, mes travaux pratiques et mes périodes de stage en entreprise.
 
 ---
 
 ## 🎓 Mon Parcours Académique
 
-* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Nom de l'établissement, Ville]*
+* **2024 – 2026 : BTS SIO (Option [SISR / SLAM])** — *[Henri matisse, Cugnaux]*
   * Administration des systèmes et réseaux, gestion de parc, développement et cybersécurité.
-* **2024 : Baccalauréat [Général / STI2D / Pro SN-CIEL]** — *[Nom du lycée, Ville]*
-  * Mention *[À compléter]*
+* **2024 : Baccalauréat [Pro CIEL]** — *[Lycée Renée bonnet, Ramoville]*
+
 
 ---
 
